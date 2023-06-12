@@ -4,7 +4,7 @@ README:
 Portfolio Webpage - ERA Photography
 
 Description:
-This is a portfolio webpage template for ERA Photography, showcasing the work and skills of Uditha Eranga, a passionate and dedicated photographer. The webpage includes different sections such as Home, About Me, Photo Gallery, Achievements, and Contact Me. It provides visitors with a comprehensive overview of the photographer's background, experience, and artistic vision.
+This is a portfolio webpage template for ERA Photography, showcasing the work and skills of My, a passionate and dedicated photographer. The webpage includes different sections such as Home, About Me, Photo Gallery, Achievements, and Contact Me. It provides visitors with a comprehensive overview of the photographer's background, experience, and artistic vision.
 
 Theme:
 The theme of the portfolio webpage is centered around photography and visual storytelling. The design and layout aim to highlight the beauty of the photographer's work and create an immersive experience for visitors. The color scheme and typography are chosen to complement the overall aesthetic and enhance the presentation of the photographs.
