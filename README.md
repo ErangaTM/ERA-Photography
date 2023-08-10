@@ -24,3 +24,6 @@ Additional Features:
 6.Social Icons: The footer includes social media icons linked to the photographer's email, phone, WhatsApp, Instagram, and LinkedIn profiles, making it easy for visitors to connect and follow the photographer on various platforms.
 
 7.Responsive Design: The webpage is designed to be responsive, ensuring that it displays and functions well on different devices and screen sizes.
+
+**Chosen option** :Include Database Configuration in GitHub Repository: Add database configuration details (with an sql dump of your database) with any credentials needed, to your GitHub repository. Mention your choice in the README file.
+
